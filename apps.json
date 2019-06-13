@@ -1,0 +1,11 @@
+{
+  "demo": {
+  "repositories" : [
+    "central",
+    "bintray:scaladays-publish-demo-0"
+  ],
+  "dependencies" : [
+    "org.scaladays.demo::hello-world:0.1.0"
+  ]
+}
+}
